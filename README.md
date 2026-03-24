@@ -18,10 +18,10 @@
 <table>
   <tbody>
     <tr>
-<!--       <td>
-       <span style="color:green">C++</span><br>
-        <span align="center"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" width="48"/></span>
-      </td> -->
+      <td>
+       <span style="color:green">Odoo</span><br>
+        <span align="center"><img style="height: 48px;" src="https://odoocdn.com/openerp_website/static/src/img/2016/logos/odoo_logo.svg" width="48"/></span>
+      </td>
 <!--       <td align="center">Java<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/java"/></span>
       </td> -->
@@ -48,9 +48,9 @@
       <td align="center">JSON<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/json-download.png"/> </span>
       </td>
-      <td align="center">MySQL<br>
+      <!-- <td align="center">MySQL<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></span>
-      </td>
+      </td> -->
 <!--       <td align="center">Android Studio<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></span>
       </td> -->
@@ -62,9 +62,9 @@
         <span align="center"><img src="https://img.icons8.com/bubbles/50/000000/react.png"/></span>
       </td>
  -
-      <td align="center">Firebase<br>
+      <!-- <td align="center">Firebase<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
-      </td>
+      </td> -->
         <td align="center">VSCode<br>
         <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48"/></span>
       </td>
@@ -101,5 +101,6 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/samir-alkhalil-66bb9a170/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://wa.me/+963953658032" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v2.png"/></a>
 
 </p>
