@@ -7,7 +7,7 @@
 
 - 📫 reach me at **sameeralkhlil6@gmail.com**
 
-- ⚡ Want to know more about me, then head out to [**my website ;)**](https://samir1997s.github.io/personal-portfolio/) 
+- ⚡ Want to know more about me, then head out to [**my website ;)**](https://samir1997s.github.io/portfolio/) 
 
 
 ## 🚀 Languages and Tools:
